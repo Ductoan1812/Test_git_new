@@ -1,4 +1,3 @@
 file nay la cua Dangnhap
 thèmiel
 git checkout main
-git pull origin Dangnhap
